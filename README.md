@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/main/assets/about.png" alt="Ilustração" width="300" />
+<img align="right" src="src/ilustration.png" alt="Ilustração" width="300" />
 
 <p>
   <b>Guilherme</b> here. I'm a developer focused on <b>games</b> and <b>mobile applications.</b>
