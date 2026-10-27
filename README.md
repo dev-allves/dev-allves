@@ -35,13 +35,13 @@
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/dev-allves">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/guilherme-pinheiro-4a4762397/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:guilhermepinheiro.work@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
