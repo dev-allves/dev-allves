@@ -12,7 +12,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" src="src/ilustration.png" alt="Ilustração" width="300" />
+<img align="right" src="src/ilustration.png" alt="Ilustração" width="250" />
 
 <p>
   <b>Guilherme</b> here. I'm a developer focused on <b>games</b> and <b>mobile applications.</b>
@@ -29,6 +29,8 @@
 <p>
   My goal is simple: write clean code, build reliable software, and become a developer who creates products that last. I am open to collaborations 👥 and available for opportunities and freelance projects. 🔧
 </p>
+
+<br/>
 
 <h2 align="center">🤝 Connect</h2>
 
@@ -50,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,godot,py,figma,git,html,css,js" alt="Tech Stack" />
 </p>
 
-<p>
+<p align="center">
   <img
     align="left"
     alt="GitHub Stats"
