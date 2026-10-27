@@ -14,19 +14,19 @@
 
 <img align="right" src="src/ilustration.png" alt="Ilustração" width="250" />
 
-<p>
+<p style="text-justify: auto">
   <b>Guilherme</b> here. I'm a developer focused on <b>games</b> and <b>mobile applications.</b>
 </p>
 
-<p>
+<p style="text-justify: auto">
   I like working on a variety of projects, from games to apps, and I am constantly evolving, learning, and improving my understanding of how to build real softwares.
 </p>
 
-<p>
+<p style="text-justify: auto">
   Currently, I am studying <b>Godot, Kotlin, and Python</b>, while improving my problem-solving skills with <b>Data Structures and Algorithms</b>.
 </p>
 
-<p>
+<p style="text-justify: auto">
   My goal is simple: write clean code, build reliable software, and become a developer who creates products that last. I am open to collaborations 👥 and available for opportunities and freelance projects. 🔧
 </p>
 
@@ -45,6 +45,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
+
+<br/>
 
 <h2 align="center">💻 Tech Stack</h2>
 
